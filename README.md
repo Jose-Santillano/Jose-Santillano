@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-santillano&label=Profile%20views&color=0e75b6&style=flat" alt="jose-santillano" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" />
 
-- 🔭 I’m currently working on [Karelogic](https://plataforma.karelogic.net/registro-alumno)
+- 🔭 I’m currently working on [Softtek](https://www.softtek.com/es/)
 
-- 🌱 I’m currently learning **Spring Boot & Angular**
+- 🌱 I’m currently learning **Spring Boot & DevSecOps**
 
-- 👨‍💻 All of my projects are available at [https://jose-santillano.netlify.app/](https://jose-santillano.netlify.app/)
+- 👨‍💻 All of my projects are available at (2020) [https://jose-santillano.netlify.app/](https://jose-santillano.netlify.app/)
 
 - 💬 Ask me about **React, Laravel or MySQL**
 
