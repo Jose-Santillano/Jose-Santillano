@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **jose.santillano7479@gmail.com**
 
+- 📱 Personal projects [Lovencrypt: https://lovencrypt.netlify.app/]
+
 - ⚡ Fun fact **I hate Java :)**
 
 <h3 align="left">Connect with me:</h3>
