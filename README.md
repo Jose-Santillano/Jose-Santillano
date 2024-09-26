@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jose.santillano7479@gmail.com**
 
-- 📱 Personal projects [Lovencrypt: https://lovencrypt.netlify.app/]
+- 📱 Personal projects (Free OSINT) [https://ipxgeo.netlify.app/]
 
 - ⚡ Fun fact **I hate Java :)**
 
